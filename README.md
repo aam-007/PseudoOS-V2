@@ -64,5 +64,7 @@ pseudo-os/
     No external libraries required
     (Everything is built using tkinter, os, sys, math, and datetime)
 
+```
 
+## Run os.py 
 
