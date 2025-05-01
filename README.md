@@ -64,15 +64,5 @@ pseudo-os/
     No external libraries required
     (Everything is built using tkinter, os, sys, math, and datetime)
 
-🚀 Getting Started
-
-Clone the repository and run the desktop:
-
-git clone https://github.com/aam-007/PseudoOS-v2
-cd PseudoOS
-python3 os.py
-
-All apps and games will launch in their own windows from the desktop interface.
-
 
 
